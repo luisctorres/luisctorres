@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My Name is Luis C Torres</h1>
+<h1 align="center">Hi 👋, My name is Luis C Torres</h1>
 <h3 align="center">I am a Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisctorres&label=Profile%20views&color=0e75b6&style=flat" alt="luisctorres" /> </p>
@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, Java & Spring Boot**
 
-- 👨‍💻 All of my projects are available at [(Portfolio Coming Soon)]((Portfolio Coming Soon))
-
-- 📫 How to reach me **luistorrswe@gmail.com**
+- 📫 Reach me at **luistorrswe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

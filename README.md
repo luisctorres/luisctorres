@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/luistorresdev" target="blank"><img src="https://img.shields.io/twitter/follow/luistorresdev?logo=twitter&style=for-the-badge" alt="luistorresdev" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Java & Spring Boot**
+- 🌱 I’m currently learning **How to build and deploy Full-Stack Web Applications**
 
 - 📫 Reach me at **luistorrswe@gmail.com**
 
